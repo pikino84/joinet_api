@@ -1,0 +1,1 @@
+php -q C:\con_wc_mbpos\api_wooco\imagenes_update_mbpos.php
